@@ -1,0 +1,24 @@
+i
+
+Signed-off-by: tomasmik <tomasmik@protonmail.com>
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Thu Nov 9 10:58:49 2023 +0200
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .github/workflows/gpg.yml
+#	new file:   .github/workflows/resign.yml
+#	new file:   go/gpg/go.mod
+#	new file:   go/gpg/go.sum
+#	new file:   go/gpg/main.go
+#	new file:   go/sign/go.mod
+#	new file:   go/sign/go.sum
+#	new file:   go/sign/main.go
+#	new file:   readme.md
+#
